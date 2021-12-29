@@ -1,2 +1,2 @@
 Git is a strange tool
-Git is free software
+Git is free strange software
